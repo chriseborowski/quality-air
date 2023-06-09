@@ -1,8 +1,8 @@
 # Quality Air
 
-[View demo](https://replit.com/@chriseborowski/Quality-Air) • [Report bug](https://github.com/chriseborowski/random6/issues) • [Request feature](https://github.com/chriseborowski/random6/issues) • [DM author](https://twitter.com/chriseborowski)
+[View demo](https://replit.com/@chriseborowski/Quality-Air) • [Report bug](https://github.com/chriseborowski/quality-air/issues) • [Request feature](https://github.com/chriseborowski/quality-air/issues) • [DM author](https://twitter.com/chriseborowski)
 
-![Live demo](https://github.com/chriseborowski/random6/blob/main/live-demo.png)
+![Live demo](https://github.com/chriseborowski/quality-air/blob/main/live-demo.png)
 
 ## About
 
